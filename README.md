@@ -33,4 +33,4 @@
   -Tes batas: uji API untuk edge cases yang berbeda, seperti nilai maksimum atau minimum untuk parameter masukan.
 
 * Cara melakukan testing adalah :
-- Running code pada TestRunner.java
+ Running code pada TestRunner.java
